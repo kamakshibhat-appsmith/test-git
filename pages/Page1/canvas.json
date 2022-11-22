@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1570,
+          "bottomRow": 1290,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -42,7 +42,7 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 18.0625,
-              "leftColumn": 22,
+              "leftColumn": 23,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -53,7 +53,7 @@
               ],
               "key": "fdm0tur5ps",
               "isDeprecated": false,
-              "rightColumn": 46,
+              "rightColumn": 47,
               "widgetId": "ya8swav9nl",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
@@ -113,9 +113,9 @@
               "widgetName": "CheckboxGroup1",
               "displayName": "Checkbox Group",
               "iconSVG": "/static/media/icon.ecb3847950c4515966ef642a32758afb.svg",
-              "labelText": "LabelSubmitecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHMaeoAfDUFJoccQ3+pNHqiW2S/EbLVPiYS1Z+hQ9GJ2C180HpEp7weZ6Zx6o03FnnER9RFlyqsoBnti5Jexze8= appsmithecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHMaeoAfDUFJoccQ3+pNHqiW2S/EbLVPiYS1Z+hQ9GJ2C180HpEp7weZ6Zx6o03FnnER9RFlyqsoBnti5Jexze8= appsmithecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHMaeoAfDUFJoccQ3+pNHqiW2S/EbLVPiYS1Z+hQ9GJ2C180HpEp7weZ6Zx6o03FnnER9RFlyqsoBnti5Jexze8= appsmithecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHMaeoAfDUFJoccQ3+pNHqiW2S/EbLVPiYS1Z+hQ9GJ2C180HpEp7weZ6Zx6o03FnnER9RFlyqsoBnti5Jexze8= appsmithSubmitecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHMaeoAfDUFJoccQ3+pNHqiW2S/EbLVPiYS1Z+hQ9GJ2C180HpEp7weZ6Zx6o03FnnER9RFlyqsoBnti5Jexze8= appsmithecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHMaeoAfDUFJoccQ3+pNHqiW2S/EbLVPiYS1Z+hQ9GJ2C180HpEp7weZ6Zx6o03FnnER9RFlyqsoBnti5Jexze8= appsmithecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHMaeoAfDUFJoccQ3+pNHqiW2S/EbLVPiYS1Z+hQ9GJ2C180HpEp7weZ6Zx6o03FnnER9RFlyqsoBnti5Jexze8= appsmithecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHMaeoAfDUFJoccQ3+pNHqiW2S/EbLVPiYS1Z+hQ9GJ2C180HpEp7weZ6Zx6o03FnnER9RFlyqsoBnti5Jexze8= appsmithSubmitecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHMaeoAfDUFJoccQ3+pNHqiW2S/EbLVPiYS1Z+hQ9GJ2C180HpEp7weZ6Zx6o03FnnER9RFlyqsoBnti5Jexze8= appsmithecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHMaeoAfDUFJoccQ3+pNHqiW2S/EbLVPiYS1Z+hQ9GJ2C180HpEp7weZ6Zx6o03FnnER9RFlyqsoBnti5Jexze8= appsmithecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHMaeoAfDUFJoccQ3+pNHqiW2S/EbLVPiYS1Z+hQ9GJ2C180HpEp7weZ6Zx6o03FnnER9RFlyqsoBnti5Jexze8= appsmithecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHMaeoAfDUFJoccQ3+pNHqiW2S/EbLVPiYS1Z+hQ9GJ2C180HpEp7weZ6Zx6o03FnnER9RFlyqsoBnti5Jexze8= appsmith",
-              "topRow": 64,
-              "bottomRow": 155,
+              "labelText": "{{Input1.inputText}}",
+              "topRow": 72,
+              "bottomRow": 76,
               "parentRowSpace": 10,
               "labelWidth": 5,
               "type": "CHECKBOX_GROUP_WIDGET",
@@ -128,13 +128,16 @@
                   "key": "onSelectionChange"
                 }
               ],
-              "leftColumn": 16,
+              "leftColumn": 10,
               "dynamicBindingPathList": [
                 {
                   "key": "accentColor"
                 },
                 {
                   "key": "borderRadius"
+                },
+                {
+                  "key": "labelText"
                 }
               ],
               "labelPosition": "Top",
@@ -158,7 +161,7 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 39,
+              "rightColumn": 33,
               "defaultSelectedValues": "BLUE",
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "k4czfgjvat",
@@ -172,8 +175,63 @@
               "originalTopRow": 64,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 71,
+              "originalBottomRow": 155,
               "isInline": true,
+              "minDynamicHeight": 4
+            },
+            {
+              "boxShadow": "none",
+              "widgetName": "Input1",
+              "displayName": "Input",
+              "iconSVG": "/static/media/icon.9f505595da61a34f563dba82adeb06ec.svg",
+              "searchTags": [
+                "form",
+                "text input",
+                "number",
+                "textarea"
+              ],
+              "topRow": 31,
+              "bottomRow": 38,
+              "parentRowSpace": 10,
+              "labelWidth": 5,
+              "autoFocus": false,
+              "type": "INPUT_WIDGET_V2",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 18.0625,
+              "resetOnSubmit": true,
+              "leftColumn": 3,
+              "dynamicBindingPathList": [
+                {
+                  "key": "accentColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "labelPosition": "Top",
+              "labelStyle": "",
+              "inputType": "TEXT",
+              "isDisabled": false,
+              "key": "dldgykp2ds",
+              "labelTextSize": "0.875rem",
+              "isRequired": false,
+              "isDeprecated": false,
+              "rightColumn": 23,
+              "dynamicHeight": "FIXED",
+              "widgetId": "f0h4k8wtei",
+              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+              "isVisible": true,
+              "label": "Label",
+              "version": 2,
+              "parentId": "0",
+              "labelAlignment": "left",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "maxDynamicHeight": 9000,
+              "iconAlign": "left",
+              "defaultText": "",
               "minDynamicHeight": 4
             }
           ]
