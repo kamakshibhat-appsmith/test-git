@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 790,
+          "bottomRow": 730,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -115,11 +115,12 @@
               "iconSVG": "/static/media/icon.ecb3847950c4515966ef642a32758afb.svg",
               "labelText": "Label",
               "topRow": 64,
-              "bottomRow": 70,
+              "bottomRow": 71,
               "parentRowSpace": 10,
               "labelWidth": 5,
               "type": "CHECKBOX_GROUP_WIDGET",
               "hideCard": false,
+              "shouldScrollContents": true,
               "animateLoading": true,
               "parentColumnSpace": 18.0625,
               "dynamicTriggerPathList": [
@@ -159,6 +160,7 @@
               "isDeprecated": false,
               "rightColumn": 39,
               "defaultSelectedValues": "BLUE",
+              "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "k4czfgjvat",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
@@ -167,8 +169,12 @@
               "labelAlignment": "left",
               "renderMode": "CANVAS",
               "isLoading": false,
+              "originalTopRow": 64,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-              "isInline": true
+              "maxDynamicHeight": 9000,
+              "originalBottomRow": 70,
+              "isInline": true,
+              "minDynamicHeight": 4
             }
           ]
         },
