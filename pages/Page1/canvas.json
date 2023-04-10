@@ -82,7 +82,7 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 18.0625,
-              "leftColumn": 8,
+              "leftColumn": 16,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"
@@ -95,7 +95,7 @@
               "isDisabled": false,
               "key": "id13v2cday",
               "isDeprecated": false,
-              "rightColumn": 24,
+              "rightColumn": 32,
               "isDefaultClickDisabled": true,
               "widgetId": "2ymaq7avl7",
               "isVisible": true,

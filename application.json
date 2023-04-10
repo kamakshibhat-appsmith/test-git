@@ -11,11 +11,11 @@
   "unpublishedApplicationDetail": {
     "navigationSetting": {
       "showNavbar": true,
-      "orientation": "side",
-      "navStyle": "sidebar",
+      "orientation": "top",
+      "navStyle": "stacked",
       "position": "static",
       "itemStyle": "text",
-      "colorStyle": "theme",
+      "colorStyle": "light",
       "logoAssetId": "",
       "logoConfiguration": "logoAndApplicationTitle",
       "showSignIn": true
@@ -24,11 +24,11 @@
   "publishedApplicationDetail": {
     "navigationSetting": {
       "showNavbar": true,
-      "orientation": "top",
-      "navStyle": "inline",
+      "orientation": "side",
+      "navStyle": "sidebar",
       "position": "static",
       "itemStyle": "text",
-      "colorStyle": "light",
+      "colorStyle": "theme",
       "logoAssetId": "",
       "logoConfiguration": "logoAndApplicationTitle",
       "showSignIn": true
