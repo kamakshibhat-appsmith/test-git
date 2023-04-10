@@ -11,6 +11,19 @@
   "unpublishedApplicationDetail": {
     "navigationSetting": {
       "showNavbar": true,
+      "orientation": "side",
+      "navStyle": "sidebar",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "theme",
+      "logoAssetId": "",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "showSignIn": true
+    }
+  },
+  "publishedApplicationDetail": {
+    "navigationSetting": {
+      "showNavbar": true,
       "orientation": "top",
       "navStyle": "inline",
       "position": "static",
